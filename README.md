@@ -10,3 +10,6 @@
 
 ## Docker
 [초보자를 위한 Docker 안내서](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+
+* [Dockerfile 에서 ADD와 COPY의 차이](https://www.ctl.io/developers/blog/post/dockerfile-add-vs-copy/)
+** 결론은 COPY를 지향하자로 귀결.
